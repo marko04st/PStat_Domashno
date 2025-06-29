@@ -1,2 +1,2 @@
 # PStat_Domashno
-domashno po pstat
+Проект по Приложна статистика
